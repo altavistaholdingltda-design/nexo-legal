@@ -1,0 +1,189 @@
+{
+  "terms": {
+    "title": "Termos de Uso",
+    "version": "2026-10-21-v2",
+    "sections": [
+      {
+        "title": "Responsável e contato",
+        "paragraphs": [
+          "O NEXO IA é operado por AltaVista Holding Ltda. Contato para suporte, privacidade e solicitações sobre contratação: altavistaholdingltda@gmail.com. A identificação completa do fornecedor e as condições do canal de pagamento devem estar disponíveis antes de qualquer contratação."
+        ]
+      },
+      {
+        "title": "O que o NEXO oferece",
+        "paragraphs": [
+          "O aplicativo reúne ferramentas pessoais, conteúdo educativo e assistentes de inteligência artificial. Leitura da biblioteca e ferramentas determinísticas podem ser gratuitas; conversas, transcrição, análise de refeição por foto e criação de imagens dependem do acesso e dos limites informados para cada recurso. A disponibilidade é identificada no catálogo e na oferta. Recursos marcados como em breve não integram os benefícios disponíveis da contratação. O tutor de programação não executa nem publica seu projeto."
+        ]
+      },
+      {
+        "title": "Conta e aceite",
+        "paragraphs": [
+          "O acesso à conta usa autenticação Google pelo Supabase. Para concluir o acesso no aplicativo, marque a caixa de aceite e confirme. Registramos na conta autenticada a versão dos termos, a versão da política apresentada, a revisão dos documentos e a data da manifestação. Uma nova revisão dos termos pode exigir novo aceite. A leitura da política não representa autorização genérica para qualquer uso de dados.",
+          "Proteja sua conta e não forneça senhas ou códigos de autenticação. Não tente acessar dados de outra pessoa, explorar falhas ou usar o serviço de modo ilegal, abusivo ou contrário a direitos de terceiros."
+        ]
+      },
+      {
+        "title": "Conteúdo e respostas de IA",
+        "paragraphs": [
+          "Você conserva os direitos que possui sobre o material enviado e deve ter autorização para compartilhá-lo. O NEXO e os fornecedores envolvidos processam o conteúdo necessário para executar a solicitação, manter os registros escolhidos e proteger o serviço, conforme a Política de Privacidade.",
+          "Respostas, imagens e estimativas podem conter erros, ser incompletas ou estar desatualizadas. Confira informações importantes e revise antes de usar ou compartilhar. Resultados podem não ser exclusivos. Não há garantia de nota, aprovação, contratação, alcance, faturamento ou mudança física. Conteúdo educativo não substitui avaliação profissional médica, nutricional, psicológica, jurídica ou financeira. O NEXO não é serviço de emergência."
+        ]
+      },
+      {
+        "title": "Planos, pagamentos e limites",
+        "paragraphs": [
+          "Antes de pagar, confira preço total, duração, recursos, cotas, renovação e canal responsável pela cobrança. O PWA pode encaminhar a um checkout externo quando esse canal estiver habilitado. Compras pelo Google Play, quando disponibilizadas, seguem o fluxo da loja e os direitos aplicáveis. Não conclua uma contratação sem essas informações.",
+          "A promoção planejada de R$ 9,90 por 30 dias é uma compra única, sem renovação automática e com até três análises de refeição por foto no período. Ela só estará disponível quando o app apresentar a oferta e o pagamento, a validade e a cota específica forem confirmados no servidor. Este texto não ativa a promoção nem permite comprá-la.",
+          "Acesso pago depende da confirmação do servidor para a conta que comprou. O retorno do checkout não é prova de pagamento. Quotas e restrições devem ser mostradas antes da contratação; limites temporários de proteção também podem interromper pedidos. Quando não for possível conferir acesso ou cota, o recurso poderá ficar indisponível até nova tentativa."
+        ]
+      },
+      {
+        "title": "Cancelamento, arrependimento e reembolso",
+        "paragraphs": [
+          "Use o canal em que contratou para gerenciar uma cobrança e procure o contato do NEXO se precisar de orientação. Para contratação à distância, os direitos de arrependimento e restituição previstos na legislação brasileira são preservados, inclusive o prazo legal de sete dias quando aplicável. Condições comerciais não afastam direitos legais.",
+          "Excluir a conta e cancelar uma cobrança recorrente são ações diferentes. Se houver uma assinatura recorrente ativa, solicite também o cancelamento no canal de contratação. Uma compra única de 30 dias não gera renovação automática. Pedidos recebidos precisam ser confirmados e tratados pelo responsável; o aplicativo não deve afirmar que um estorno ocorreu sem confirmação."
+        ]
+      },
+      {
+        "title": "Dados, arquivos e sincronização",
+        "paragraphs": [
+          "Conversas, planos, registros e arquivos podem ter cópias na conta e no dispositivo. Workspace, imagens salvas e determinadas preferências sincronizam com a conta quando o serviço está disponível. Uma cópia offline pode aguardar envio. Não trate uma imagem ou um rascunho como exclusivamente local sem conferir a informação do recurso. Veja as categorias e os limites na Política de Privacidade."
+        ]
+      },
+      {
+        "title": "Exclusão e suporte",
+        "paragraphs": [
+          "Você pode solicitar exclusão de conta e dados pelo documento Solicitar exclusão, pelo e-mail de contato ou pelo suporte autenticado. A solicitação precisa de confirmação de titularidade e tratamento pelo responsável. O pedido não é uma confirmação de exclusão concluída.",
+          "Arquivos exportados ou cópias que permanecem em dispositivos precisam ser removidos nesses locais. Retenções necessárias e ciclos de cópias técnicas devem ser esclarecidos na resposta. Não envie senha, código de autenticação ou dados completos de cartão para pedir exclusão."
+        ]
+      },
+      {
+        "title": "Disponibilidade, alterações e direitos",
+        "paragraphs": [
+          "O serviço depende de conexão e de fornecedores e pode ficar indisponível por manutenção, falhas ou proteção contra abuso. Podemos atualizar funcionalidades e estes documentos, identificando a revisão e solicitando novo aceite quando necessário. Condições já contratadas e direitos legais devem ser respeitados.",
+          "Podemos restringir acesso por abuso, risco de segurança ou obrigação legal, preservados os direitos aplicáveis. Nenhuma cláusula elimina direitos do consumidor ou responsabilidade que a legislação não permita excluir."
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "title": "Política de Privacidade",
+    "version": "2026-10-21-v2",
+    "sections": [
+      {
+        "title": "Responsável e finalidade deste aviso",
+        "paragraphs": [
+          "AltaVista Holding Ltda. é responsável pelo NEXO IA. Contato: altavistaholdingltda@gmail.com. Este aviso descreve o tratamento previsto no aplicativo e os controles disponíveis. As configurações efetivas dos fornecedores e a operação precisam corresponder a estas informações."
+        ]
+      },
+      {
+        "title": "Conta, autenticação e aceite",
+        "paragraphs": [
+          "Google e Supabase participam do login. São tratados identificador da conta, e-mail e dados básicos disponibilizados na autenticação, como nome e foto. O registro de aceite contém versões dos documentos, revisão, identificação do conteúdo apresentado e data; fica associado à conta autenticada. Não registramos sua senha Google no NEXO."
+        ]
+      },
+      {
+        "title": "Conversas, planos e registros",
+        "paragraphs": [
+          "Mensagens enviadas e respostas, títulos e datas, especialista escolhido, planos, etapas, progresso, vocabulário e outros registros salvos podem ficar associados à conta. O envio de uma solicitação à IA pode incluir o histórico e o contexto necessários à resposta. Um campo de observações é contexto fornecido por você; não é diagnóstico nem garantia de que qualquer texto será seguido.",
+          "Rascunhos e preferências podem ter cópia local e sincronização por conta. Opções como tema, voz, velocidade, tamanho do texto e nível de raciocínio podem ser recuperadas em outro dispositivo conforme a disponibilidade da sincronização."
+        ]
+      },
+      {
+        "title": "Arquivos, imagens e análise de refeição",
+        "paragraphs": [
+          "Arquivos adicionados ao Workspace, imagens salvas, descrições, nomes, tipos, tamanhos e outros metadados podem ser mantidos localmente e sincronizados com armazenamento privado da conta. Cópias locais pendentes podem ser enviadas quando houver conexão. A galeria não é descrita como exclusivamente local.",
+          "Ao solicitar análise de uma foto ou usar um anexo, o conteúdo necessário pode ser enviado ao servidor e ao provedor de IA. Na geração ou edição de imagens, prompts e imagens de referência necessários também participam do processamento. Evite rostos, documentos, dados de terceiros e informações desnecessárias."
+        ]
+      },
+      {
+        "title": "Voz",
+        "paragraphs": [
+          "Quando você inicia uma gravação para transcrição, o áudio é enviado ao serviço de processamento. O app procura remover a gravação temporária local ao terminar, inclusive em caso de falha; cópias exportadas e registros dos fornecedores seguem condições próprias. O texto transcrito é apresentado para revisão antes do envio à conversa. Isso não constitui avaliação clínica da fala."
+        ]
+      },
+      {
+        "title": "Suporte, segurança e uso",
+        "paragraphs": [
+          "Uma solicitação de suporte pode guardar mensagem, categoria, código informado, plataforma, versão do app e protocolo, associados à conta. Conversas e anexos não são acrescentados automaticamente ao pedido de suporte.",
+          "Controles de acesso, cota, reserva de uso e limites temporários exigem registros técnicos. A medição adicional de consumo, quando habilitada, usa metadados como recurso, modelo, tokens, tamanho de áudio e formato de imagem. Não é uma cópia automática do conteúdo da conversa. Falhas podem gerar códigos e referências técnicas; evite enviar conteúdo privado ao relatar um erro."
+        ]
+      },
+      {
+        "title": "Para que e com que fundamento tratamos",
+        "paragraphs": [
+          "Autenticação, entrega do recurso solicitado, sincronização escolhida, suporte e gestão de contratação envolvem dados necessários à prestação do serviço. Proteção contra abuso e atendimento a obrigações legais têm finalidades próprias. O fundamento adequado depende de cada operação; aceitar os termos não constitui consentimento universal para publicidade, dados sensíveis ou finalidades novas.",
+          "Não vendemos dados pessoais nem usamos o conteúdo das conversas para publicidade comportamental. Não é necessário incluir dados de saúde ou outros dados sensíveis para ler a biblioteca. Recursos ou solicitações que revelem esses dados exigem avaliação de necessidade, fundamento e proteção específicos; evite compartilhá-los sem necessidade. O aceite geral não substitui consentimento específico quando ele for exigido."
+        ]
+      },
+      {
+        "title": "Fornecedores e processamento fora do Brasil",
+        "paragraphs": [
+          "Google participa da autenticação; Supabase fornece autenticação, banco, armazenamento e funções de servidor. A OpenAI processa o conteúdo necessário às solicitações de IA. Um prestador de pagamento, quando contratado pelo canal habilitado, também pode tratar os dados necessários à cobrança; sua identificação e condições devem estar disponíveis antes de pagar.",
+          "Esses serviços podem envolver processamento fora do Brasil conforme a região e o contrato configurados. Países, garantias de transferência, prazos e configurações aplicáveis precisam ser confirmados pelo responsável com os fornecedores. Não afirmamos que todos os dados ficam no Brasil nem que os fornecedores eliminam tudo imediatamente.",
+          "As condições de retenção e uso dos dados de cada API dependem do produto e das configurações efetivamente contratadas. O NEXO não promete retenção zero ou ausência universal de registro pelo provedor. Solicite esclarecimentos pelo canal de privacidade se precisar dessas informações."
+        ]
+      },
+      {
+        "title": "Armazenamento, retenção e exclusões",
+        "paragraphs": [
+          "Dados associados à conta podem permanecer enquanto forem necessários à finalidade, ao funcionamento contratado e às obrigações aplicáveis. Exclusões no app podem usar uma marca de remoção para impedir restauração por um dispositivo antigo; isso não equivale necessariamente a apagar de imediato cada cópia técnica.",
+          "Arquivos na nuvem, banco, registros operacionais e cópias de segurança têm procedimentos próprios. O responsável deve informar retenções justificadas e os ciclos aplicáveis ao atender uma solicitação. Cópias exportadas, downloads e dados que permaneçam em aparelhos não são apagados remotamente só por encerrar a conta."
+        ]
+      },
+      {
+        "title": "Direitos e canais",
+        "paragraphs": [
+          "Você pode solicitar confirmação do tratamento, acesso, correção, informações sobre compartilhamento e outros direitos previstos na LGPD, além de exclusão quando cabível. Se uma operação depender de consentimento, pode solicitar sua revogação; isso não elimina obrigações ou outros fundamentos aplicáveis a dados específicos.",
+          "Use altavistaholdingltda@gmail.com ou a categoria Privacidade e dados no suporte autenticado. Podemos pedir confirmação razoável de titularidade, sem senha ou código de autenticação. Leia Solicitar exclusão para preparar o pedido e distinguir recebimento de conclusão."
+        ]
+      },
+      {
+        "title": "Segurança e cuidados",
+        "paragraphs": [
+          "O aplicativo usa autenticação e regras de acesso por conta. Isso não garante segurança absoluta. Proteja a conta Google, confira o dispositivo e evite inserir credenciais, cartões completos, documentos e dados de terceiros. Compartilhe apenas o necessário.",
+          "O NEXO não é destinado a emergências nem substitui atendimento profissional. Se houver dados de criança ou adolescente, o responsável precisa avaliar as condições específicas de proteção e uso; este aviso não cria autorização genérica para tratar esses dados."
+        ]
+      },
+      {
+        "title": "Mudanças",
+        "paragraphs": [
+          "A revisão apresentada neste aplicativo identifica o texto disponível offline. Mudanças relevantes devem ser informadas e, quando necessário, exigir nova manifestação. Para consultar a versão que foi registrada na conta ou esclarecer a operação efetiva, use o contato de privacidade."
+        ]
+      }
+    ]
+  },
+  "deletion": {
+    "title": "Solicitar exclusão da conta",
+    "version": "2026-10-21-v2",
+    "sections": [
+      {
+        "title": "Como solicitar",
+        "paragraphs": [
+          "Envie o pedido para altavistaholdingltda@gmail.com ou use Privacidade e dados no suporte autenticado. Informe o e-mail Google usado no NEXO e que deseja excluir a conta e os dados associados. Nunca inclua senha, código de autenticação ou cartão completo.",
+          "O botão desta página abre um rascunho no seu aplicativo de e-mail. Ele não envia automaticamente nem confirma a exclusão. Se não houver aplicativo de e-mail, copie o endereço e prepare o pedido no canal que usa."
+        ]
+      },
+      {
+        "title": "Confirmação e tratamento",
+        "paragraphs": [
+          "O responsável precisa confirmar que o pedido pertence ao titular e registrar seu atendimento. O recebimento do pedido não é confirmação de execução. Peça protocolo ou confirmação e guarde a resposta com os dados que foram excluídos e as retenções justificadas."
+        ]
+      },
+      {
+        "title": "O que precisa ser considerado",
+        "paragraphs": [
+          "A revisão do pedido deve abranger a conta e os dados associados no banco, conversas, planos, registros, preferências sincronizadas, arquivos do Workspace, imagens salvas, metadados e solicitações de suporte, conforme a operação efetiva. Arquivos privados no armazenamento precisam ser tratados além das linhas do banco.",
+          "Obrigações legais, segurança e prevenção de fraude podem justificar retenção limitada. Cópias técnicas de fornecedores seguem ciclos próprios. O responsável deve explicar o que permanecerá, por qual motivo e por quanto tempo ou critério aplicável."
+        ]
+      },
+      {
+        "title": "Cópias nos dispositivos e cobranças",
+        "paragraphs": [
+          "Apague também downloads, exportações e cópias locais que queira remover em cada dispositivo. Encerrar a conta na nuvem não apaga remotamente arquivos exportados.",
+          "Se houver assinatura recorrente ativa, peça também o cancelamento no canal da compra. Excluir a conta não deve ser presumido como cancelamento de cobrança. A promoção de compra única de 30 dias, quando habilitada, não prevê renovação automática."
+        ]
+      }
+    ]
+  }
+}
